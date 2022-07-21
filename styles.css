@@ -1,0 +1,23 @@
+body {
+	font-family: 'Cantarell', sans-serif;
+	padding: 20px 0;
+	margin: 0;
+	text-align: center;
+	background: #0d1017;
+	color: whitesmoke;
+}
+
+span {
+	border-bottom: 2px solid whitesmoke;
+	padding: 4px;
+}
+
+button {
+	margin: 20px 0;
+	background: darkgreen;
+	color: black;
+	border: 3px ridge darkcyan;
+	font-weight: bold;
+	cursor: pointer;
+	padding: 5px 8px;
+}
